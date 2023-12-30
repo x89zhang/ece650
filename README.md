@@ -1,1 +1,2 @@
-# projects in uwaterloo, ece650
+# ece650
+Projects in uwaterloo, ECE 650
